@@ -65,6 +65,20 @@
     height: 200px;
 } 
 
+#service-page-header{
+    background: url(../images/image2.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 200px;
+} 
+
+#blog-page-header{
+    background: url(../images/image3.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 200px;
+} 
+
 #about-info img{
     width: 350px;
     height: 350px;
